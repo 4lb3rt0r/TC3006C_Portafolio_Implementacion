@@ -9,10 +9,10 @@ En este directorio puede encontrar encontrarán el primer entregable de mi porta
 
     Explicación breve sobre las instrucciones a seguir y un poco de contexto acerca de los datos utilizados para este trabajo.
 
-2. Implementación de un Algoritmo de Machine Learning utilizando regresión polinomial:
+2. Implementación de un Algoritmo de Machine Learning utilizando regresión polinomial:<br/>
    
-       Código de Python empleado para la implementación del algoritmo de ML, utilizando el método de regresión polinomial y la base de datos obtenida de Kaggle con información sobre películas de Marvel.
+   Código de Python empleado para la implementación del algoritmo de ML, utilizando el método de regresión polinomial y la base de datos obtenida de Kaggle con información sobre películas de Marvel.
 
-4. Graficas y Tabla Comaprativa:
+4. Graficas y Tabla Comaprativa:<br/>
    
-        Graficación y tabulación de información utilizada durante el análisis posterior a la predicción con el fin de visualizar el flujo de los datos.
+   Graficación y tabulación de información utilizada durante el análisis posterior a la predicción con el fin de visualizar el flujo de los datos.
