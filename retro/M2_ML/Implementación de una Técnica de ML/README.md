@@ -1,29 +1,16 @@
-# Limpieza de datos
-En este directorio puede encontrar los documentos necesarios para la limpieza de los datos para el entrenamiento del modelo. Cuenta con los siguientes archivos:
-* **train.csv:** Datos de entrenamiento sin procesar
-* **train_clean.csv:** Datos de entrenamiento procesados
-* **clean_training_data.ipynb:** Jupyter Notebook que contiene el códugo y el analisis realizado para la limpieza de datos. A continuación se presenta un indice de los contenidos de dicho archivo
+# Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework
+En este directorio puede encontrar encontrarán el primer entregable de mi portafolio de implementación, que básicamente consiste en la implementación de un algoritmo básico de Machine Learning, en mi caso utilicé una regresión polinomial. Cuenta con los siguientes archivos:
+* **Marvel_Movies.csv:** Datos de Películas de Marvel que han salido a lo largo de los años.
+* **M2_Implementación_de_una_técnica_de_aprendizaje_máquina.ipynb:** Jupyter Notebook que contiene el código y analisis realizado para la implementación del código de Mahcine Learning que realizará predicciones en base a datos de películas de Marvel. A continuación se presenta un indice de los contenidos de dicho archivo
 
-1. Análisis previo a la limpieza
+1. Encabezado
 
-    1.1 **Herramientas utilizadas:**
+    1.1 **Instrucciones e Información acerca del entregable:**
 
-    Listado de herramientas utilizadas en la limpieza.
-    
-    1.2 **Selección de Atributos:**
+    Explicación breve sobre las instrucciones a seguir y un poco de contexto acerca de los datos utilizados para este trabajo.
 
-    Selección y justificado de los atributos que consideramos relevantes para el análisis, estos se dividen en las siguientes categorías:
+2. Implementación de un Algoritmo de Machine Learning utilizando regresión polinomial
+Código de Python empleado para la implementación del algoritmo de ML, utilizando el método de regresión polinomial y la base de datos obtenida de Kaggle con información sobre películas de Marvel.
 
-        1. Atributos útiles
-        2. Atributos transformados
-        3. Atributos inutiles
-    
-    1.3. **Oportunidades de mejora / Trabajo futuro**
-
-    Trabajo pendiente y areas en la que es posible mejorar este análisis.
-
-2. Limpieza de datos
-Código de Python empleado para ejecutar la limpieza de datos según se estableció en el análisis previo.
-
-3. Graficas
-Graficación de información utilizada durante el análisis previo.
+3. Graficas y Tabla Comaprativa
+Graficación y tabulación de información utilizada durante el análisis posterior a la predicción con el fin de visualizar el flujo de los datos.
