@@ -1,4 +1,6 @@
-# Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
+# Portafolio de Implementación
+
+## Curso TC3006 - Inteligencia Artificial Avanzada para la Ciencia de Datos
 
 ## Estudiante
 * Alberto H Orozco Ramos - A00831719
