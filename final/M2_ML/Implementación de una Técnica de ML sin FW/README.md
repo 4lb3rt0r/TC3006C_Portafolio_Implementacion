@@ -13,7 +13,7 @@ Dentro de este apartado puede encontrar encontrarán el primer entregable de mi 
    
    Código de Python empleado para la implementación del algoritmo de ML, utilizando el método de regresión polinomial y la base de datos obtenida de <a href="https://www.kaggle.com/datasets/joebeachcapital/marvel-movies">Kaggle</a> con información sobre películas de Marvel.
 
-4. Graficas y Tabla Comaprativa:<br/>
+4. Graficas y Tabla Comparativa:<br/>
    
    Graficación y tabulación de información utilizada durante el análisis posterior a la predicción con el fin de visualizar el flujo de los datos y su comportamiento con respecto a los valores reales.
 

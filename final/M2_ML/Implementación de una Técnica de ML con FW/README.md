@@ -35,3 +35,18 @@ Dentro de este apartado puede encontrar encontrarán el segundo entregable de mi
 4. Gráfica:<br/>
    
    Graficación y tabulación de información utilizada durante el análisis posterior a la predicción con el fin de visualizar el flujo de los datos.
+
+## Cambios realizados con respecto a la entrega anterior
+Se realizaron varias observaciones por parte del docente con respecto a la primera versión de este entregable, por lo cual, se realizaron varias modicaciones con el fin de cumplir con los criterios de la rúbrica que no se lograron alcanzar previamente. Es por ello que, a continuación se presentan las modificaciones realizadas al trabajo basados en la retroalimentación proporcionada por criterio faltante:
+
+* **El readme incluye una descripción del dataset utilizado (nombre y URL donde se encuentra)**
+   * Este mismo archivo README ya incluye una descripción detallada de los datos y sus respectivos atributos. El comentario del docente con respecto a esta métrica indica que falta una URL, esto es debido a que se entregó el trabajo con demora y se envió la liga por medio de correo electrónico.
+
+* **El reporte incluye el nombre del dataset utilizado**
+   * Dentro de la sección "Acerca de los datos" se realizó una ligera modificación que ahora incluye una descripción más amplia de los datos utilizados, entre ello, se encuentra el nombre del dataset **en negritas**.
+
+* **El reporte incluye una descripción breve de los datos incluidos en el dataset (cantidad de registros/muestras, número de características, número de clases de salida o rango de valores de salida)**
+   * Ahora, tanto el reporte como este mismo archivo README incluyen una descripción detallada del dataset utilizados para este entregable, así como una descripción por cada variable que conforma la base de datos con el fin de que el lector cuente con un recurso que le permita entender de mejor forma qué tipos de datos se están manejando y cómo está compuesto el dataset. Se especifíca con qué variable de entrada se va a trabajar para generar la variable de salida, que también se especifica dentro del mismo texto del reporte.
+
+* **El reporte incluye una descripción de las métricas de desempeño para el subconjunto de entrenamiento**
+   * Se incluyó un segmento dentro del reporte titulado "Evaluamos el rendimiento del algoritmo durante el entrenamiento", en el cual se especifica más a detalle la métrica utilizada y la razón de su implementación para evaluar el modelo.
