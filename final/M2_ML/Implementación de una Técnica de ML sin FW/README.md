@@ -1,7 +1,7 @@
 # Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework
 Dentro de este apartado puede encontrar encontrarán el primer entregable de mi portafolio de implementación, que básicamente consiste en la implementación de un algoritmo básico de Machine Learning, en mi caso utilicé una regresión polinomial. Cuenta con los siguientes archivos:
 * **<a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Implementacion/blob/main/final/M2_ML/Implementación de una Técnica de ML con FW/Marvel_Movies.csv">**Marvel_Movies.csv:**</a>** Datos de Películas de Marvel que han salido a lo largo de los años.
-* **<a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Implementacion/blob/main/final/M2_ML/Implementación de una Técnica de ML con FW/M2_Implementación_de_una_técnica_de_aprendizaje_máquina.ipynb">M2_Implementación_de_una_técnica_de_aprendizaje_máquina.ipynb:**</a> Jupyter Notebook que contiene el código y analisis realizado para la implementación del código de Mahcine Learning que realizará predicciones en base a datos de películas de Marvel. A continuación se presenta un indice de los contenidos de dicho archivo
+* **<a href="https://github.com/4lb3rt0r/TC3006_Portafolio_Implementacion/blob/main/final/M2_ML/Implementaci%C3%B3n%20de%20una%20T%C3%A9cnica%20de%20ML%20sin%20FW/M2_Implementaci%C3%B3n_de_una_t%C3%A9cnica_de_aprendizaje_m%C3%A1quina.ipynb">M2_Implementación_de_una_técnica_de_aprendizaje_máquina.ipynb:**</a> Jupyter Notebook que contiene el código y analisis realizado para la implementación del código de Mahcine Learning que realizará predicciones en base a datos de películas de Marvel. A continuación se presenta un indice de los contenidos de dicho archivo
 
 1. Encabezado
 
